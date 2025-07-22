@@ -20,7 +20,7 @@ The analysis is based on two datasets:
 
 Both datasets span **January–March 2017** and include customer-level order line data.
 
-## 🔍 Key Questions Explored
+##  Key Questions Explored
 
 This project dives into supply chain data to uncover valuable insights, including:
 
