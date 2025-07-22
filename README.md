@@ -46,7 +46,7 @@ This project dives into supply chain data to uncover valuable insights, includin
 - **Customer journey:** Tracking order totals over time with a running tally.  
 - **Cancellation-sales showdown:** Top canceled customers and their sales impact.  
 - **Sales power players:** Who drives the lion’s share of revenue?  
-- **ABC inventory magic:** Classifying products into A, B, and C categories — the 80/20 rule in action.  
+- **ABC inventory:** Classifying products into A, B, and C categories — the 80/20 rule in action.  
 
 
 ## Tools Used
